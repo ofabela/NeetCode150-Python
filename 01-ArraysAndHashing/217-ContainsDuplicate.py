@@ -1,4 +1,7 @@
 class Solution:
+	"""
+	Easy
+	"""
 	def contains_duplicate(self, nums: list[int]) -> bool:
 		visited = {}
 
